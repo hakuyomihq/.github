@@ -51,7 +51,7 @@
 | --- | --- | --- |
 | **Frank Cruz** · [@miyofrank](https://github.com/miyofrank) | CEO | [ceo@hakuyomi.com](mailto:ceo@hakuyomi.com) · [LinkedIn](https://www.linkedin.com/in/frankmiyo) |
 | **Giusseppe Piminchumo** · [@Gius0204](https://github.com/Gius0204) | COO | [coo@hakuyomi.com](mailto:coo@hakuyomi.com) · [LinkedIn](https://www.linkedin.com/in/giuspiley) |
-| **Dealexandro Reyes** | CTO | [cto@hakuyomi.com](mailto:cto@hakuyomi.com) |
+| **Dealexandro Reyes** · [@FenixDev3000](https://github.com/FenixDev3000) | CTO | [cto@hakuyomi.com](mailto:cto@hakuyomi.com) |
 
 ---
 
